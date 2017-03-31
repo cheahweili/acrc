@@ -5,6 +5,8 @@ program test
 
         print *, ndimen
 
+        print *, "hello"
+
 end program test
 
 
