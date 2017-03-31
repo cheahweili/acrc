@@ -5,7 +5,8 @@ program test
 
         print *, ndimen
 
-        print *, "hello"
+        print *, "hello world"
+        print *, "what's next?"
 
 end program test
 
